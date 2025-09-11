@@ -2,10 +2,8 @@
 
 Assignment 1 
 
-**Task 1 
-**
-Functionality Description: 
-------------------------------------
+Task 1      Functionality Description: 
+------------------------------------------
 
 1.  Taking Input:
 
@@ -33,12 +31,8 @@ The program prints the results of each operation using the print() function. The
 
 
 
-
-
-Task 2 
-
-Functionality Description:
-------------------------------
+Task 2      Functionality Description:
+-------------------------------------------
 
 Input:  Takes first and last names from the user.
 Concatenation:  Joins them into a full name.
