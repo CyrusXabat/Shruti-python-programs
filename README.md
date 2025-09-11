@@ -2,9 +2,9 @@
 
 Assignment 1 
 
-Task 1 
-
-Functionality Description:
+**Task 1 
+**
+Functionality Description: 
 ------------------------------------
 
 1.  Taking Input:
