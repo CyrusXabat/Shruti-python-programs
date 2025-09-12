@@ -39,3 +39,32 @@ Input:  Takes first and last names from the user.
 Concatenation:  Joins them into a full name.
 Output:  Displays a greeting using the full name.
 
+
+
+Assignment 2 
+-------------------------
+
+
+Task 1    
+---------------
+
+1.  Input: The program uses the input function to get a number from the user and converts it to an integer using int().
+
+2.  Check: The program uses an if-else statement to check if the number is even or odd. The condition number % 2 == 0 checks if the remainder when the number is divided by 2 is 0.
+
+    *  If the condition is true, the number is even.
+    *  If the condition is false, the number is odd.
+
+3.  Output: The program prints the result using the print function.
+
+
+
+
+Task 2     
+----------------
+
+1.   Initialization: The variable total_sum is initialized to 0. This variable will hold the running total of the numbers.
+
+2.  Loop: The for loop iterates through each number from 1 to 50. For each number, it adds the number to total_sum.
+
+3.  Output: After the loop finishes, the program prints the final sum.
