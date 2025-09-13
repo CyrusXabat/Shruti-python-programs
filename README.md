@@ -70,3 +70,39 @@ Task 2
 2.  Loop: The for loop iterates through each number from 1 to 50. For each number, it adds the number to total_sum.
 
 3.  Output: After the loop finishes, the program prints the final sum.
+
+
+
+Assignment 3 
+----------------------
+
+Task 1
+----------
+
+1.  Function Definition: The factorial function initializes a variable result to 1. It then uses a for loop to multiply result by each number from 1 to n (inclusive). Finally, it returns the calculated factorial.
+
+2.   Main Program:
+
+      *  The main function prompts the user to enter a number.
+      *  It converts the input to an integer and calls the factorial function with this number.
+      *  It prints the result returned by the factorial function.
+
+  
+Task 2
+-----------
+
+1.  Import the Math Module: The program imports the math module to access mathematical functions.
+
+2.  Main Program:
+
+   *  The main function prompts the user to enter a number and converts the input to a float.
+   *  It calculates the square root using math.sqrt().
+   *  It calculates the natural logarithm using math.log().
+   *  It calculates the sine of the number using math.sin().
+   *  It prints the results.
+
+
+
+
+
+
