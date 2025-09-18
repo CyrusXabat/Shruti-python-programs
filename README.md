@@ -148,4 +148,44 @@ Task 2
    *  It reads the entire content of the file and prints it to the console.
 
 
+Assignments 5 
+-------------------------
+
+Task 1 
+--------
+
+1.  Create a Dictionary:
+
+   *  A dictionary is created where student names are the keys and their marks are the values.
+
+2.  Take User Input:
+
+   *  The program prompts the user to enter a student's name.
+
+3.  Retrieve and Display Marks:
+
+   *  The program checks if the entered student name exists in the dictionary.
+   *  If the name is found, it retrieves and displays the corresponding marks.
+   *  If the name is not found, it displays an appropriate message indicating that the student was not found.
+
+
+Task 2 
+--------
+
+1.  Create a List:
+
+   *  A list of numbers from 1 to 10 is created.
+
+2.  Extract the First Five Elements:
+
+   *  List slicing is used to extract the first five elements from the list.
+
+3.  Reverse the Extracted Elements:
+
+   *  The extracted list is reversed using slicing or the reverse method.
+
+4.  Print the Results:
+
+   *  Both the extracted list and the reversed list are printed.
+
 
