@@ -103,6 +103,49 @@ Task 2
 
 
 
+Assignments 4 
+---------------------
+
+Task 1 
+---------
+
+1.  Function Definition:
+
+   *  The function read_file takes one parameter, file_name, which is the name of the file to be read.
+
+2.  Try Block:
+
+   *  The try block attempts to open the file using the open function.
+   *  The with statement ensures that the file is properly closed after its suite finishes, even if an exception is raised.
+   *  The for loop iterates over each line in the file using enumerate, which provides both the line number and the line content.
+   *  line.strip() removes any leading or trailing whitespace, including the newline character at the end of each line.
+   *  Each line is printed with its corresponding line number.
+
+3.  Except Block:
+
+   *  If the file does not exist, a FileNotFoundError is raised.
+   *  The except block catches this error and prints an error message indicating that the file was not found.
+
+
+Task 2 
+---------
+
+1.  Taking User Input and Writing to the File:
+
+   *  The program prompts the user to enter text to write to the file.
+   *  It opens the file in write mode ('w'), which creates the file if it does not exist or overwrites it if it does.
+   *  The user input is written to the file.
+
+2.  Appending Additional Data to the File:
+
+   *  The program prompts the user to enter additional text to append to the file.
+   *  It opens the file in append mode ('a'), which allows adding new data to the end of the file without overwriting the existing content.
+   *  The additional user input is appended to the file.
+
+3.  Reading and Displaying the Final Content of the File:
+
+   *  The program opens the file in read mode ('r') to read its content.
+   *  It reads the entire content of the file and prints it to the console.
 
 
 
